@@ -104,10 +104,10 @@
         "duration": ">1 week, <4 weeks",
         "chestPain": ["N", "Y"],
         "cough": "dry",
-        "coughingUpBlood": "Y",
+        "coughingUpBlood": "N",
         "fever": "Y",
         "rapidBreathing": "Y",
-        "rapidHeartbeat": "Y",
+        "rapidHeartbeat": "N",
         "shortnessOfBreath": "Y",
         "wheezing": "N"
     },
